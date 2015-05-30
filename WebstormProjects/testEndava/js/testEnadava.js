@@ -15,7 +15,7 @@ $(document).ready(function () {
     $('.submit').click(function () {
 
         if(sn==""){
-            $('.required').append(' (Please supply)')
+            $('.required').append(' (Please supply)');
             $('.sn').addClass('has-error');
         }else{
             $.ajax({

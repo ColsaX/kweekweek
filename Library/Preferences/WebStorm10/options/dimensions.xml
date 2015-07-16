@@ -1,0 +1,9 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="230" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="428" y="174" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" x="478" y="43" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="284" y="123" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="341" y="132" />
+  </component>
+</application>
